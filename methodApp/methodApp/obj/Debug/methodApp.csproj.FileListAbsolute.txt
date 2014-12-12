@@ -1,0 +1,6 @@
+E:\RBM\methodApp\methodApp\bin\Debug\methodApp.exe.config
+E:\RBM\methodApp\methodApp\obj\Debug\methodApp.csprojResolveAssemblyReference.cache
+E:\RBM\methodApp\methodApp\bin\Debug\methodApp.exe
+E:\RBM\methodApp\methodApp\bin\Debug\methodApp.pdb
+E:\RBM\methodApp\methodApp\obj\Debug\methodApp.exe
+E:\RBM\methodApp\methodApp\obj\Debug\methodApp.pdb

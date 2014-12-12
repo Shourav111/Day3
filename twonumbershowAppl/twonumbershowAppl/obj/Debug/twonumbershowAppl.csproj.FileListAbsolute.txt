@@ -1,0 +1,9 @@
+E:\RBM\twonumbershowAppl\twonumbershowAppl\bin\Debug\twonumbershowAppl.exe.config
+E:\RBM\twonumbershowAppl\twonumbershowAppl\obj\Debug\twonumbershowAppl.csprojResolveAssemblyReference.cache
+E:\RBM\twonumbershowAppl\twonumbershowAppl\obj\Debug\twonumbershowAppl.Form1.resources
+E:\RBM\twonumbershowAppl\twonumbershowAppl\obj\Debug\twonumbershowAppl.Properties.Resources.resources
+E:\RBM\twonumbershowAppl\twonumbershowAppl\obj\Debug\twonumbershowAppl.csproj.GenerateResource.Cache
+E:\RBM\twonumbershowAppl\twonumbershowAppl\bin\Debug\twonumbershowAppl.exe
+E:\RBM\twonumbershowAppl\twonumbershowAppl\bin\Debug\twonumbershowAppl.pdb
+E:\RBM\twonumbershowAppl\twonumbershowAppl\obj\Debug\twonumbershowAppl.exe
+E:\RBM\twonumbershowAppl\twonumbershowAppl\obj\Debug\twonumbershowAppl.pdb
